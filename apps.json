@@ -1,0 +1,23 @@
+{
+  "name": "La Mia Repository",
+  "identifier": "com.tuousername.altstorerepo",
+  "apps": [
+    {
+      "name": "Nome App",
+      "bundleIdentifier": "com.tuonome.app",
+      "developerName": "Il Tuo Nome",
+      "subtitle": "Breve descrizione dell'app",
+      "localizedDescription": "Descrizione completa e dettagliata delle funzionalità dell'applicazione.",
+      "iconURL": "https://raw.githubusercontent.com/username/mia-altstore-repo/main/icona.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-15T00:00:00Z",
+          "downloadURL": "INCOLLA_QUI_IL_LINK_DIRECTO_DEL_FILE_IPA",
+          "size": 15000000,
+          "localizedDescription": "Primo rilascio dell'applicazione."
+        }
+      ]
+    }
+  ]
+}
