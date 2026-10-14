@@ -4,12 +4,12 @@
   "apps": [
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.tuonome.app",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "marketplaceID": "324684580",
       "subtitle": "Breve descrizione dell'app",
       "localizedDescription": "Descrizione completa e dettagliata delle funzionalità dell'applicazione.",
-      "iconURL": "https://github.com/scacco-44/mio-repo-altstore-acco/blob/main/AppIcon60x60%402x.png",
+      "iconURL": "https://github.com/scacco-44/mio-repo-altstore-acco/raw/main/AppIcon60x60%402x.png",
       "versions": [
         {
           "version": "1.0.0",
