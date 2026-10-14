@@ -6,6 +6,7 @@
       "name": "Spotify",
       "bundleIdentifier": "com.tuonome.app",
       "developerName": "Spotify",
+      "marketplaceID": "324684580",
       "subtitle": "Breve descrizione dell'app",
       "localizedDescription": "Descrizione completa e dettagliata delle funzionalità dell'applicazione.",
       "iconURL": "https://github.com/scacco-44/mio-repo-altstore-acco/blob/main/AppIcon60x60%402x.png",
