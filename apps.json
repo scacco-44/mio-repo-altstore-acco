@@ -6,14 +6,12 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
-      "marketplaceID": "324684580",
       "subtitle": "Breve descrizione dell'app",
       "localizedDescription": "Descrizione completa e dettagliata delle funzionalità dell'applicazione.",
       "iconURL": "https://github.com/scacco-44/mio-repo-altstore-acco/raw/main/AppIcon60x60%402x.png",
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "1",
           "date": "2026-10-15T00:00:00Z",
           "downloadURL": "https://github.com/scacco-44/mio-repo-altstore-acco/releases/download/v1.0.0/spoti.pw-0.51.0.ipa",
           "size": 143022753,
